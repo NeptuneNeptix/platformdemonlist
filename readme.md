@@ -1,15 +1,13 @@
-# ORIGINAL gdshittylist WAS BY ELECTRO, I ONLY FORKED THIS TO MAKE INTO MY VERSION FOR MY GDPS (please dont kill me electro)
-- All of the works are belong to Electro and more people I can't remember.
-- THIS ISNT MINE PLEASE NOTE THAT
-
-thanks 
-
-# PLATFORM GDPS CHALLENGE LIST REPO
-- This is the source for Platform GDPS Challenge List website.
-- All belongs to Electro (said above), not mine. kthx
+# ALL OF THE WORKS BELONGS TO ELECTRO AND THE GDSSHITTYLIST TEAM.
+# EVERY WORK IS NOT MINE, ALL GOES TO THEIR RESPECTIVE CREATORS.
+- **platformdemonlist** is just a copy from the original **gdshittylist** repo (aka template for demonlist style website).
+- Nothing was done by me, please note that.
 <br>
 
-# LIST MODS <br>
-- **Owner**: (Neptune) Neptix. (aka Neptix) <br>
-- **Co-Owner**: NameData <br>
-- **List Moderator**: *no one* <br>
+### DEMONLIST MOD TEAM
+**Owner: Neptix (Neptix#3346)** <br>
+**Co-Owner: none** <br>
+**Admin: none** <br>
+
+**Demonlist Mod: NameData (NameData#2032)** <br>
+**List Helper: none** <br>
