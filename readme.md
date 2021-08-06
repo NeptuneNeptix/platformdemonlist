@@ -2,6 +2,7 @@
 # EVERY WORK IS NOT MINE, ALL GOES TO THEIR RESPECTIVE CREATORS.
 - **platformdemonlist** is just a copy from the original **gdshittylist** repo (aka template for demonlist style website).
 - Nothing was done by me, please note that.
+- The original repo: https://github.com/ElectroFlameOfficial/gdshittylist
 <br>
 
 ### DEMONLIST MOD TEAM
